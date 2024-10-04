@@ -1,0 +1,329 @@
+{
+  "heading": "Reflexive Pronouns",
+  "topics": [
+    {
+      "heading": "Reflexive Pronouns",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "He made the sandwich by ________.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "yourself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Himself\" is used because \"he\" does something to him."
+        },
+        {
+          "questionNo": 2,
+          "question": "They cleaned the room all by ________.",
+          "options": [
+            {
+              "text": "themselves"
+            },
+            {
+              "text": "ourselves"
+            },
+            {
+              "text": "itself"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Themselves\" is used when \"they\" do something to them."
+        },
+        {
+          "questionNo": 3,
+          "question": "\"Themselves\" is used when talking about one person.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Themselves\" is used when talking about more than one person."
+        },
+        {
+          "questionNo": 4,
+          "question": "She wrote a story about ________.",
+          "options": [
+            {
+              "text": "himself"
+            },
+            {
+              "text": "yourself"
+            },
+            {
+              "text": "herself"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Herself\" is used because \"she\" does something to her."
+        },
+        {
+          "questionNo": 5,
+          "question": "\"Myself\" is used when you do something to yourself.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Myself\" is a reflexive pronoun used when \"I\" do something to me."
+        },
+        {
+          "questionNo": 6,
+          "question": "The dog played with ________ in the yard.",
+          "options": [
+            {
+              "text": "himself"
+            },
+            {
+              "text": "itself"
+            },
+            {
+              "text": "herself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Itself\" is used because \"the dog\" does something to it."
+        },
+        {
+          "questionNo": 7,
+          "question": "\"Herself\" is used for a boy.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Herself\" is used for a girl, while \"himself\" is used for a boy."
+        },
+        {
+          "questionNo": 8,
+          "question": "I taught ________ to ride a bike.",
+          "options": [
+            {
+              "text": "himself"
+            },
+            {
+              "text": "myself"
+            },
+            {
+              "text": "herself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Myself\" is used because \"I\" do something to me."
+        },
+        {
+          "questionNo": 9,
+          "question": "He can tie his shoes by ________.",
+          "options": [
+            {
+              "text": "himself"
+            },
+            {
+              "text": "themself"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Himself\" is used because \"he\" does something to him."
+        },
+        {
+          "questionNo": 10,
+          "question": "You should take care of ________.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "yourself"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Yourself\" is used because \"you\" do something to you."
+        },
+        {
+          "questionNo": 11,
+          "question": "We had a great time by ________.",
+          "options": [
+            {
+              "text": "ourself"
+            },
+            {
+              "text": "ourselves"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Ourselves\" is used because \"we\" do something to us."
+        },
+        {
+          "questionNo": 12,
+          "question": "The cat licked ________ clean.",
+          "options": [
+            {
+              "text": "itself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "herself"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Itself\" is used because \"the cat\" does something to it."
+        },
+        {
+          "questionNo": 13,
+          "question": "We enjoyed ________ at the park.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "ourselves"
+            },
+            {
+              "text": "himself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Ourselves\" is used because \"we\" do something to us."
+        },
+        {
+          "questionNo": 14,
+          "question": "The bird hurt ________ when it flew into the window.",
+          "options": [
+            {
+              "text": "itselves"
+            },
+            {
+              "text": "itself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Itself\" is used because \"the bird\" does something to it."
+        },
+        {
+          "questionNo": 15,
+          "question": "She likes to read books by ________.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "myself"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Herself\" is used because \"she\" does something to her."
+        },
+        {
+          "questionNo": 16,
+          "question": "The boy can dress ________.",
+          "options": [
+            {
+              "text": "myself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "herself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Himself\" is used because \"the boy\" does something to him."
+        },
+        {
+          "questionNo": 17,
+          "question": "You should be careful by ________.",
+          "options": [
+            {
+              "text": "ourself"
+            },
+            {
+              "text": "yourself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Yourself\" is used because \"you\" do something to you."
+        },
+        {
+          "questionNo": 18,
+          "question": "The kids made lunch for ________.",
+          "options": [
+            {
+              "text": "themselves"
+            },
+            {
+              "text": "herself"
+            },
+            {
+              "text": "myself"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Themselves\" is used because \"the kids\" do something to them."
+        },
+        {
+          "questionNo": 19,
+          "question": "He read the book all by ________.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "himself"
+            },
+            {
+              "text": "myself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Himself\" is used because \"he\" does something to him."
+        },
+        {
+          "questionNo": 20,
+          "question": "I can do it by ________.",
+          "options": [
+            {
+              "text": "herself"
+            },
+            {
+              "text": "myself"
+            },
+            {
+              "text": "himself"
+            }
+          ],
+          "answer": 1,
+          "explanation": "\"Myself\" is used because \"I\" do something to me."
+        }
+      ]
+    }
+  ]
+}
